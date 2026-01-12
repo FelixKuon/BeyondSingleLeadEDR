@@ -38,7 +38,7 @@ This code is licensed under the **Creative Commons Attribution-NonCommercial-Sha
 - **Not allowed**: Commercial use (e.g., in products sold for profit).
 - Derivatives must use the same license.
 
-See [LICENSE](LICENSE) for full terms. For commercial inquiries, contact [your.email@example.com].
+See [LICENSE](LICENSE) for full terms. For commercial inquiries, contact [].
 
 ## Citation
 If you use this code in your work, please cite the paper:
