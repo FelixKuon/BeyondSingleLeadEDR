@@ -25,7 +25,7 @@ Example Jupyter notebooks:
 - `3d_vcg_visualization.ipynb`: Interactive VCG plotting
 
 ## Results Summary
-- Superior SNR, frequency stability, and accuracy vs. RR/Amplitude-EDR [file:16]
+- Superior SNR, frequency stability, and accuracy vs. RR/Amplitude-EDR
 - Handles 6–18 bpm (0.1–0.3 Hz) reliably
 - Fully reproducible with provided code and configs
 
