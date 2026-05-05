@@ -5,7 +5,7 @@
 This repository contains the complete Python pipeline for processing mobile EASI-lead ECG data into 3D Frank-XYZ vectorcardiograms (VCG) and deriving beat-to-beat respiration surrogate signals. The methods enable accurate estimation of slow-paced breathing frequencies (< 0.1 Hz), outperforming traditional single-lead EDR approaches based on RR-intervals or R-amplitude.
 
 Key features:
-- EASI-to-Frank-XYZ transformation for 3D heart vector reconstruction [file:16]
+- EASI-to-Frank-XYZ transformation for 3D heart vector reconstructio
 - Robust 3D kinematic R-peak detection (adaptive thresholding, topology-based)
 - Multivariate Mahalanobis-distance artifact correction across multiple features
 - HeartMovement signal: Rotation-based EDR from complex angular projection
@@ -42,7 +42,3 @@ See [LICENSE](LICENSE) for full terms. For commercial inquiries, contact [].
 
 ## Citation
 If you use this code in your work, please cite the paper:
-
-
-
-**Note**: Original ECG data is not included due to privacy restrictions. Contact the study PI for access.
