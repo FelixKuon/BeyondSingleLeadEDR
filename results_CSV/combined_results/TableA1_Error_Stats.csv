@@ -1,0 +1,4 @@
+Method,N,Bias (Hz),SD (Hz),MAE (Hz),RMSE (Hz),Median (Hz),IQR (Hz),t (Bias≠0),p (Bias≠0),sig (Bias),r (Error|Rate),p (Error|Rate),sig (Rate),r (Error|Mean RR),p (Error|Mean RR),sig (Mean RR)
+Heartmovement EDR,132,-0.0135,0.0411,0.0162,0.0431,-0.0031,0.0042,-3.779,0.0002,***,-0.383,0.0,***,-0.161,0.0648,ns
+RR-Interval EDR,129,-0.0481,0.071,0.0498,0.0856,-0.004,0.0991,-7.697,0.0,***,-0.689,0.0,***,0.086,0.3309,ns
+R-Amplitude EDR,119,-0.0263,0.0529,0.032,0.0589,-0.0046,0.0228,-5.424,0.0,***,-0.487,0.0,***,-0.066,0.4786,ns

@@ -1,0 +1,4 @@
+Method,SNR Mean (dB),SNR SD (dB),r(SNR|bpm),p(SNR|bpm),r(SNR|RR),p(SNR|RR),N
+HeartMovement,6.012,3.832,-0.568,0.0,-0.118,0.1792,132
+RR_Intervals,4.616,5.64,-0.706,0.0,-0.016,0.8533,129
+R_Amplitude,3.204,4.24,-0.331,0.0002,-0.24,0.0086,119

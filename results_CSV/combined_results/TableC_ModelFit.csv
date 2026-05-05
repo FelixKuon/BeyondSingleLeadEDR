@@ -1,0 +1,3 @@
+Modell,N_obs,N_subjects,k_params,LogLik,AIC,BIC
+Error ~ Rate × Method + MeanRR,380,19,9,611.34,-1204.68,-1169.22
+Residual ~ MeanRR × Method,380,19,8,617.45,-1218.9,-1187.38

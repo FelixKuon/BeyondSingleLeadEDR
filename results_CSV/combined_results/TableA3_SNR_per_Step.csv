@@ -1,0 +1,22 @@
+Method,bpm,Hz,Mean SNR (dB),SD (dB),Median (dB),N
+Heartmovement EDR,6,0.1,8.056,2.94,9.072,19
+Heartmovement EDR,8,0.1333,9.537,3.107,10.778,19
+Heartmovement EDR,10,0.1667,7.927,3.178,8.162,19
+Heartmovement EDR,12,0.2,5.434,3.372,4.327,19
+Heartmovement EDR,14,0.2333,4.073,2.908,2.925,19
+Heartmovement EDR,16,0.2667,4.071,3.165,4.335,19
+Heartmovement EDR,18,0.3,2.819,3.043,2.712,18
+RR-Interval EDR,6,0.1,9.11,3.312,9.444,19
+RR-Interval EDR,8,0.1333,10.556,4.194,11.713,19
+RR-Interval EDR,10,0.1667,7.4,4.484,8.92,19
+RR-Interval EDR,12,0.2,3.704,4.188,4.128,19
+RR-Interval EDR,14,0.2333,0.776,3.765,0.063,19
+RR-Interval EDR,16,0.2667,0.032,3.525,-0.22,18
+RR-Interval EDR,18,0.3,-0.281,3.206,-0.383,16
+R-Amplitude EDR,6,0.1,4.215,3.692,4.123,19
+R-Amplitude EDR,8,0.1333,5.538,4.145,5.684,19
+R-Amplitude EDR,10,0.1667,4.687,4.565,4.374,18
+R-Amplitude EDR,12,0.2,2.538,4.194,2.404,18
+R-Amplitude EDR,14,0.2333,1.524,4.371,1.059,17
+R-Amplitude EDR,16,0.2667,1.473,3.404,1.369,15
+R-Amplitude EDR,18,0.3,1.376,3.404,0.126,13

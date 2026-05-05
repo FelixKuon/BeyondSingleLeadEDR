@@ -1,0 +1,5 @@
+Term,Modell-Anmerkung,χ²,df,p,sig
+EDR Method (main effect),df=2: 2 contrasts vs. HeartMovement,41.218,2,0.0,***
+Breathing Rate — linear (z),df=1: linear predictor,18.841,1,0.0,***
+Interaction: Method × Breathing Rate,df=2: slope differs per method,39.594,2,0.0,***
+Mean RR Interval (z),df=1: independent of breathing rate,5.912,1,0.015,*

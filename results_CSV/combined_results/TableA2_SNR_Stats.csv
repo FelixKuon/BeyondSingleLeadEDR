@@ -1,0 +1,4 @@
+Method,N,Mean SNR (dB),SD SNR (dB),Median SNR (dB),IQR (dB),Min (dB),Max (dB),r (SNR|Rate),p (SNR|Rate),sig (Rate),r (SNR|Mean RR),p (SNR|Mean RR),sig (Mean RR)
+Heartmovement EDR,132,6.012,3.832,6.114,6.265,-1.707,13.001,-0.568,0.0,***,-0.118,0.1792,ns
+RR-Interval EDR,129,4.616,5.64,4.157,9.543,-6.163,15.429,-0.706,0.0,***,-0.016,0.8533,ns
+R-Amplitude EDR,119,3.204,4.24,2.871,5.842,-7.064,13.786,-0.331,0.0002,***,-0.24,0.0086,**

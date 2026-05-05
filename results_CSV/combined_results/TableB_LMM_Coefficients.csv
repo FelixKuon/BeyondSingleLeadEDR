@@ -1,0 +1,14 @@
+Model,Term,Coefficient,SE,z,p,CI_low,CI_high,sig
+Error ~ Breathing Rate × Method,Intercept (HM Reference),-0.01249,0.00445,-2.805,0.005,-0.02122,-0.00376,**
+Error ~ Breathing Rate × Method,RR-Interval EDR vs. HM,-0.0351,0.00547,-6.417,0.0,-0.04581,-0.02438,***
+Error ~ Breathing Rate × Method,R-Amplitude EDR vs. HM,-0.0164,0.00561,-2.924,0.0035,-0.02739,-0.00541,**
+Error ~ Breathing Rate × Method,Breathing Rate (z),-0.01667,0.00384,-4.341,0.0,-0.0242,-0.00914,***
+Error ~ Breathing Rate × Method,RR × Breathing Rate,-0.03387,0.00546,-6.208,0.0,-0.04457,-0.02318,***
+Error ~ Breathing Rate × Method,R-Amp × Breathing Rate,-0.01151,0.00561,-2.051,0.0403,-0.0225,-0.00051,*
+Error ~ Breathing Rate × Method,Mean RR Interval (z),-0.00756,0.00311,-2.431,0.015,-0.01366,-0.00147,*
+Residual Error ~ Mean RR × Method,Intercept (HM Reference),0.00033,0.00445,0.074,0.941,-0.00839,0.00905,ns
+Residual Error ~ Mean RR × Method,RR-Interval EDR vs. HM,-0.00047,0.00545,-0.087,0.9305,-0.01115,0.0102,ns
+Residual Error ~ Mean RR × Method,R-Amplitude EDR vs. HM,-0.00146,0.00558,-0.261,0.7939,-0.01239,0.00947,ns
+Residual Error ~ Mean RR × Method,Mean RR Interval (z),-0.00839,0.00424,-1.978,0.0479,-0.0167,-8e-05,*
+Residual Error ~ Mean RR × Method,C(edr_method)[T.RR_Intervals]:hrv_mean_rr_ms_z,0.00596,0.00536,1.112,0.266,-0.00454,0.01646,ns
+Residual Error ~ Mean RR × Method,C(edr_method)[T.R_Amplitude]:hrv_mean_rr_ms_z,-0.0026,0.00567,-0.459,0.646,-0.01372,0.00851,ns

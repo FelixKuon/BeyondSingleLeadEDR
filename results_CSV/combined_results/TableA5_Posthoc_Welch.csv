@@ -1,0 +1,4 @@
+Pair,n1,n2,t,df (Welch),p,sig
+Heartmovement EDR vs RR-Interval EDR,132,129,4.807,204,0.0,***
+Heartmovement EDR vs R-Amplitude EDR,132,119,2.126,222,0.0346,*
+RR-Interval EDR vs R-Amplitude EDR,129,119,-2.756,236,0.0063,**
